@@ -1,4 +1,4 @@
-#código 18 rafgds
+#código 19 rafgds
 
 from time import sleep
 from random import randint
